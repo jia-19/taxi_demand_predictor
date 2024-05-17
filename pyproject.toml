@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 jupyter = "^1.0.0"
+pandas = "^2.2.2"
+pyarrow = "^16.1.0"
+fastparquet = "^2024.2.0"
 
 
 [build-system]
